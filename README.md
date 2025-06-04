@@ -19,8 +19,8 @@ The dataset spans Dec 2022 – Mar 2024, containing over 7,000 synthetic patient
 2. Files Included
 
 - `Dataset.xlsx` – Cleaned hospital data (admission, discharge, ward, diagnosis, billing, etc.)
-- `Papollo_Hospitals_Dashboard.pbix` – Power BI file with interactive visuals and DAX measures
-- `Report.docx` – Written analysis with key findings and methodology
+- `Hospital bed.pbix` – Power BI file with interactive visuals and DAX measures
+- `Report-3.pdf` – Written analysis with key findings and methodology
 
 ---
 
